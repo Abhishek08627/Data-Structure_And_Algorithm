@@ -44,3 +44,11 @@ public class Kadane
 		sc.close();
 	}
 }
+
+
+
+
+// Time Complexity = O(n)
+
+
+//
